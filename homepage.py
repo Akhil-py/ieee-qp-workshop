@@ -1,1 +1,1 @@
-print("Hello world")
+print("Warren student Ethan Dauz sucks")
